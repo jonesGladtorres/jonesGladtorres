@@ -5,6 +5,8 @@
 
 ![Jones GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesGladtorres&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Tecnologias principais que utilizo!
 
 <div style="display: inline_block"><br/>
