@@ -18,5 +18,3 @@
 </div><br/>
 
 <p><b>Email:</b> jonestorresadv@icloud.com</p>
-
-![Snake animation](https://github.com/jonesGladtorres/jonesGladtorres/blob/output/github-contribution-grid-snake.svg)
